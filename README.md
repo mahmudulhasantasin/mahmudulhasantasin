@@ -18,18 +18,19 @@ Here are some ideas to get you started:
 
 ## 💼 Tech Stack
 
-<h3 align="center">Languages & Frameworks:</h3><p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,html,css,py" /><br><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,sass" /></a></p>
+<h3 align="center">Languages & Frameworks:</h3>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,py,html,css" />
+  <br>
+  </p>
 <h3 align="center">Tools & Platforms:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,firebase,vite,tailwind" />
-    <br>
-    <img src="<img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/760d7c74-aa48-4269-b2e9-b74fe268c5fe" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=powershell,vscode,npm,pnpm,bash" />
+    <img src="https://skillicons.dev/icons?i=git,github,powershell,vscode" />
+    
   </a>
 </p>
-<h3 align="center">Others:</h3><p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=gmail,linkedin,windows,discord,devto" /></a></p><br>
+<h3 align="center">Others:</h3><p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=gmail,linkedin,windows,discord" /></a></p><br>
 
 
 <br/>
