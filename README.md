@@ -35,6 +35,6 @@
 
 ## 🌐 Connect with Me
 
-- LinkedIn: [Mahmudul Hasan Tasin](www.linkedin.com/in/mahmudul-hasan-tasin)
+- LinkedIn: [Mahmudul Hasan Tasin](https://www.linkedin.com/in/mahmudul-hasan-tasin/)
 - GitHub: [Mahmudul Hasan Tasin](https://github.com/mahmudulhasantasin)
 - Email: [tasinoutlook@gmail.com](mailto:tasinoutlook@gmail.com)
