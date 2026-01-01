@@ -6,8 +6,8 @@
 ## 💫 Hi 👋, I'm Mahmudul Hasan Tasin
 - 🔭 **I’m currently working on:** Sharpening my problem-solving abilities through Competitive Programming
 - 🌱 **I’m currently learning:** Data Structures & Algorithms, and getting started with Machine Learning basics
-- 👯 **I’m looking to collaborate on:** Competitive Programming, Problem Solving and simple beginner-level Machine Learning projects
-- 🤔 **I’m looking for help with:** Advanced Algorithms, Optimization Techniques, and understanding core Machine Learning concepts
+- 👯 **I’m looking to collaborate on:** Competitive Programming, Problem Solving and Practice Contests
+- 🤔 **I’m looking for help with:** Advanced Algorithms, Optimization Techniques
 - 💬 **Ask me about:** C++, STL, Algorithms, Competitive Programming (and basic ML questions if I know them!)
 - ⚡ **Fun fact:** I enjoy solving problems under pressure and love the excitement when a simple model finally starts learning 🤖
 
@@ -37,4 +37,4 @@
 
 - LinkedIn: [Mahmudul Hasan Tasin](www.linkedin.com/in/mahmudul-hasan-tasin)
 - GitHub: [Mahmudul Hasan Tasin](https://github.com/mahmudulhasantasin)
-- Email: [tasinoutlook@gmail.com](tasinoutlook@gmail.com)
+- Email: [tasinoutlook@gmail.com](mailto:tasinoutlook@gmail.com)
