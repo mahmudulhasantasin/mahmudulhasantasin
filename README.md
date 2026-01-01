@@ -1,11 +1,15 @@
+<div align="center">
+  <img align="center" alt="React" width="100%" style="padding:10px;" src="banner.png" />
+</div>
+<br/>
 
 ## 💫 Hi 👋, I'm Mahmudul Hasan Tasin
-- 🔭 **I’m currently working on:** Improving my problem-solving skills through Competitive Programming
+- 🔭 **I’m currently working on:** Sharpening my problem-solving abilities through Competitive Programming
 - 🌱 **I’m currently learning:** Data Structures & Algorithms, and getting started with Machine Learning basics
 - 👯 **I’m looking to collaborate on:** Competitive Programming, Problem Solving and simple beginner-level Machine Learning projects
 - 🤔 **I’m looking for help with:** Advanced Algorithms, Optimization Techniques, and understanding core Machine Learning concepts
 - 💬 **Ask me about:** C++, STL, Algorithms, Competitive Programming (and basic ML questions if I know them!)
-- ⚡ **Fun fact:** I enjoy solving problems under pressure and love the excitement when a simple model finally starts learning 🚀🤖
+- ⚡ **Fun fact:** I enjoy solving problems under pressure and love the excitement when a simple model finally starts learning 🤖
 
 
 <br>
