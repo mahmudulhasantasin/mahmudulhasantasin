@@ -24,7 +24,7 @@
 <h3 align="center">Tools & Platforms:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,powershell,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,powershell,mysql,vscode" />
     
   </a>
 </p>
