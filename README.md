@@ -3,7 +3,7 @@
 </div>
 <br/>
 
-## 💫 Hi 👋, I'm Mahmudul Hasan Tasin
+##  Hi 👋, I'm Mahmudul Hasan Tasin
 - 🔭 **I’m currently working on:** Sharpening my problem-solving abilities through Competitive Programming
 - 🌱 **I’m currently learning:** Data Structures & Algorithms, and getting started with Machine Learning basics
 - 👯 **I’m looking to collaborate on:** Competitive Programming, Problem Solving and Practice Contests
