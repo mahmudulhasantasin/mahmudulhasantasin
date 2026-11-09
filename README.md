@@ -4,12 +4,12 @@
 <br/>
 
 ##  Hi 👋, I'm Mahmudul Hasan Tasin
-- 🔭 **I’m currently working on:** Sharpening my problem-solving abilities through Competitive Programming
-- 🌱 **I’m currently learning:** Data Structures & Algorithms, and getting started with Machine Learning basics
-- 👯 **I’m looking to collaborate on:** Competitive Programming, Problem Solving and Practice Contests
-- 🤔 **I’m looking for help with:** Advanced Algorithms, Optimization Techniques
-- 💬 **Ask me about:** C++, STL, Algorithms, Competitive Programming (and basic ML questions if I know them!)
-- ⚡ **Fun fact:** I enjoy solving problems under pressure and love the excitement when a simple model finally starts learning 🤖
+- 🔭 **I’m currently working on:** Backend Systems, AI Agents, and Machine Learning pipelines
+- 🌱 **I’m currently learning:** FastAPI, Advanced RAG architectures, and Model Context Protocol (MCP)
+- 👯 **I’m looking to collaborate on:** Open-source AI projects, Backend Development, and Machine Learning
+- 🤔 **I’m looking for help with:** Scalable system design and advanced optimization techniques
+- 💬 **Ask me about:** Python, JavaScript, C++, Backend APIs, and Machine Learning basics
+- ⚡ **Fun fact:** I love building intelligent systems and watching a trained model finally make accurate predictions 🤖
 
 
 <br>
@@ -18,17 +18,17 @@
 
 <h3 align="center">Languages & Frameworks:</h3>
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,py,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,py,cpp,c,fastapi,pytorch,pandas,numpy,html,css" />
   <br>
   </p>
 <h3 align="center">Tools & Platforms:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,powershell,mysql,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,postgresql,mysql,vscode,postman,docker" />
     
   </a>
 </p>
-<h3 align="center">Others:</h3><p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=gmail,linkedin,windows,discord" /></a></p><br>
+<h3 align="center">Others:</h3><p align="center"><img src="https://skillicons.dev/icons?i=gmail,linkedin,windows,discord" /></p><br>
 
 
 <br/>
