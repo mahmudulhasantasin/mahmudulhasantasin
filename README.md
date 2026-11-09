@@ -18,19 +18,16 @@
 
 <h3 align="center">Languages & Frameworks:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,py,cpp,c,fastapi,pytorch,pandas,numpy,html,css" />
-  <br>
-  </p>
+  <img src="https://skillicons.dev/icons?i=js,py,cpp,c,fastapi,pytorch,pandas,numpy,html,css" alt="Languages & Frameworks" />
+</p>
 <h3 align="center">Tools & Platforms:</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postgresql,mysql,vscode,postman,docker" />
-    
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,github,postgresql,mysql,vscode,postman,docker" alt="Tools & Platforms" />
 </p>
-<h3 align="center">Others:</h3><p align="center"><img src="https://skillicons.dev/icons?i=gmail,linkedin,windows,discord" /></p><br>
-
-
+<h3 align="center">Others:</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=gmail,linkedin,windows,discord" alt="Others" />
+</p>
 <br/>
 
 ## 🌐 Connect with Me
