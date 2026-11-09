@@ -18,7 +18,7 @@
 
 <h3 align="center">Languages & Frameworks:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,py,cpp,c,fastapi,pytorch,pandas,numpy,html,css" alt="Languages & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=js,py,cpp,c,fastapi,pytorch,html,css" alt="Languages & Frameworks" />
 </p>
 <h3 align="center">Tools & Platforms:</h3>
 <p align="center">
