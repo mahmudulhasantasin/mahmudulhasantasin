@@ -13,13 +13,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=620&lines=Backend+Systems+%7C+AI+Agents+%7C+ML+Pipelines;FastAPI+%7C+Advanced+RAG+%7C+MCP;Building+Intelligent+%26+Scalable+Systems" alt="Typing SVG" />
   </a>
 
-  <br/><br/>
-
-  <!-- Dynamic GitHub Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mahmudulhasantasin&theme=tokyonight&no-frame=true&column=6&margin-w=8" alt="GitHub Trophies" />
-  </a>
-
 </div>
 
 ---
